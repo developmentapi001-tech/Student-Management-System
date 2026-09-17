@@ -4,8 +4,7 @@ A desktop-based Student Management System built using Python, Tkinter and SQLite
 
 ##Project Screenshot
 
-![Student Management System Dashboard]
-(dashboard.jpeg)
+![Student Management System Dashboard](dashboard.jpeg)
 
 ## Features
 
